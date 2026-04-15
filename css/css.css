@@ -1,0 +1,87 @@
+body {
+    font-family: "roboto" ;
+    font-weight: 400;
+    size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.title {
+    font-weight: bold;
+    line-height: 1.6;
+    size: 56px;
+    width: 496px;
+    height: 120px;
+    text-align: center;
+}
+
+.button {
+    background-color: #4D5AE5;
+    color:#FFFFFF;
+    letter-spacing: 4%;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #404BBF;
+}
+ul {
+    list-style-type: none;
+}
+
+
+.info {
+    color: #434455;
+}
+
+.info:hover {
+    color: #404BBF;
+}
+
+.number{
+color: #434455;
+}
+
+.number:hover {
+    color: #404BBF;
+}
+
+nav {
+    color: #2E2F42;
+}
+
+nav:hover {
+    color: #404BBF;
+}
+.studio:hover {
+    color: #404BBF;
+
+}
+
+.studio:active {
+    text-decoration: underline;
+}
+
+.image {
+    background-color: #F4F4FD;
+}
+
+.portfolio h3 {
+    text-align: center;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+.web {
+    color: #4D5AE5;
+}
+
+
+.web2 {
+    color: #F4F4FD;
+}
+
+footer {
+    color: #F4F4FD;
+}
