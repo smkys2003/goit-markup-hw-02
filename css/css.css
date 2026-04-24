@@ -134,15 +134,19 @@ body {
       color: #2e2f42;
 }
 
+.footer {
+    background-color: #2e2f42;
+
+}
+
 .footer-paragraph {
     line-height: 1.5;
-    color: #F4F4FD;
+    color:#F4F4FD;
     letter-spacing:0.02em;
 }
 
 .studio1 {
-    color: white;
-
+    color: #f4f4fd;
 }
 
 
@@ -158,64 +162,3 @@ body {
 
 
 
-ul {
-    list-style-type: none;
-}
-
-
-.info {
-    color: #434455;
-}
-
-.info:hover {
-    color: #404BBF;
-}
-
-.number{
-color: #434455;
-}
-
-.number:hover {
-    color: #404BBF;
-}
-
-nav {
-    color: #2E2F42;
-}
-
-nav:hover {
-    color: #404BBF;
-}
-.studio:hover {
-    color: #404BBF;
-
-}
-
-.studio:active {
-    text-decoration: underline;
-}
-
-.image {
-    background-color: #F4F4FD;
-}
-
-.portfolio h3 {
-    text-align: center;
-}
-
-footer {
-    background-color: #2E2F42;
-}
-
-.web {
-    color: #4D5AE5;
-}
-
-
-.web2 {
-    color: #F4F4FD;
-}
-
-footer {
-    color: #F4F4FD;
-}
